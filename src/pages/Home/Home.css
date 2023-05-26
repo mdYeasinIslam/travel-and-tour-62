@@ -1,0 +1,7 @@
+.home-page{
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url('/public/imges/Rectangle\ 1.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    /* filter: brightness(50%) */
+}

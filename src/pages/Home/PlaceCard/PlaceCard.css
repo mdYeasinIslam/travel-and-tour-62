@@ -1,0 +1,27 @@
+.card-name {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 80%;
+}
+.card-body {
+    color: hsl(var(--nc) / var(--tw-text-opacity));
+}
+
+.card-titl {
+    padding-left: 10px;
+    z-index: 20;
+    --tw-text-opacity: 1;
+    color: hsl(var(--nc) / var(--tw-text-opacity));
+}
+
+.card2:hover {
+    /* position: relative;  
+    bottom: 25px; */
+    padding: 15px;
+    transition: 2.4s;
+    opacity: 1;
+    /* box-shadow: 30px 30px rgb(188, 175, 175); */
+}

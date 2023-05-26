@@ -1,0 +1,7 @@
+.hover-effect:hover{
+    background-color: orange;
+    color :black;
+    padding: 0.5rem 0.75rem;
+    border-radius: 20%;
+    transition: linear 1s;
+}
